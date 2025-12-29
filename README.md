@@ -1,4 +1,4 @@
-## Hi there 👋
+## Arishya_hereee 😆
 
 
 I’m an undergraduate student in Computer Science & Design at the Singapore University of Technology and Design (SUTD), passionate about building AI-powered, sustainability-driven, and human-centric systems.
@@ -6,23 +6,23 @@ I’m an undergraduate student in Computer Science & Design at the Singapore Uni
 I enjoy working at the intersection of software engineering, AI, and real-world impact — from climate-aware navigation and mental health AI research to full-stack dashboards and embedded systems.
 
 ## 🔭 I’m currently working on ...
- ### 🧠 AI & Research
-
+ ### AI & Research
+ 
 Evaluating Explainability in AI Reasoning Models for Mental Health Support
 Benchmarking LLMs (GPT-4o, Gemini, Qwen) to study reasoning quality and explainability consistency in mental health contexts.
 
-### 🚲 Sustainability & Climate Tech
+### Sustainability & Climate Tech
 
 CoolRide – Climate-Aware Cycling Navigation
 A heat-resilient routing system that compares fastest vs coolest routes, prioritising shaded paths for cyclists during extreme heat.
 Backend routing algorithms, full-stack integration, cloud deployment.
 
-### 🌱 Embedded Systems & Computer Vision
+### Embedded Systems
 
 Aquaponics Automation & Water Quality Monitoring (Ongoing)
 ESP32-based system using OpenCV colour detection to estimate nitrate/nitrite levels (PPM) and classify water safety.
 
-## Technical Skills 
+## 👩‍💻 Technical Skills 
 **Programming:**
 Python, Java, JavaScript, SQL, HTML/CSS
 
@@ -49,8 +49,8 @@ Figma, Bubble.io, Adobe Creative Suite, Procreate, CapCut
 - Completed a 55km night cycling ride
 
 ## 📫 How to reach me:
-  arishya_jindal@mymail.sutd.edu.sg
-  www.linkedin.com/in/arishya-j-365aa1293
+  Email: arishya_jindal@mymail.sutd.edu.sg
+  Linkedin: www.linkedin.com/in/arishya-j-365aa1293
 
  
 
