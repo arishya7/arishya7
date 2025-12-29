@@ -1,16 +1,56 @@
 ## Hi there 👋
 
-<!--
-**arishya7/arishya7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m an undergraduate student in Computer Science & Design at the Singapore University of Technology and Design (SUTD), passionate about building AI-powered, sustainability-driven, and human-centric systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working at the intersection of software engineering, AI, and real-world impact — from climate-aware navigation and mental health AI research to full-stack dashboards and embedded systems.
+
+## 🔭 I’m currently working on ...
+ ### 🧠 AI & Research
+
+Evaluating Explainability in AI Reasoning Models for Mental Health Support
+Benchmarking LLMs (GPT-4o, Gemini, Qwen) to study reasoning quality and explainability consistency in mental health contexts.
+
+### 🚲 Sustainability & Climate Tech
+
+CoolRide – Climate-Aware Cycling Navigation
+A heat-resilient routing system that compares fastest vs coolest routes, prioritising shaded paths for cyclists during extreme heat.
+Backend routing algorithms, full-stack integration, cloud deployment.
+
+### 🌱 Embedded Systems & Computer Vision
+
+Aquaponics Automation & Water Quality Monitoring (Ongoing)
+ESP32-based system using OpenCV colour detection to estimate nitrate/nitrite levels (PPM) and classify water safety.
+
+## Technical Skills 
+**Programming:**
+Python, Java, JavaScript, SQL, HTML/CSS
+
+**Frameworks & Platforms:**
+FastAPI, Express, Node, React, Firebase, Android Studio, MySQL Workbench
+
+**AI & Data:**
+OpenAI & Gemini APIs, Spark, OpenCV, LLM evaluation & prompt engineering
+
+**Cloud & DevOps:**
+Docker, cloud deployment (Render / Fly.io), CI/CD fundamentals
+
+**Embedded Systems:**
+ESP32, Arduino IDE
+
+**Design & Creative:**
+Figma, Bubble.io, Adobe Creative Suite, Procreate, CapCut
+
+## 🏆 Highlights
+
+- 3rd Place – Singtel App Development Showcase (2025)
+- AT-Capital Sustainability Scholar
+- Led and collaborated on cross-country teams (India, Indonesia, Singapore)
+- Completed a 55km night cycling ride
+
+## 📫 How to reach me:
+  arishya_jindal@mymail.sutd.edu.sg
+  www.linkedin.com/in/arishya-j-365aa1293
+
+ 
+
