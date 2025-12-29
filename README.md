@@ -41,12 +41,6 @@ ESP32, Arduino IDE
 **Design & Creative:**
 Figma, Bubble.io, Adobe Creative Suite, Procreate, CapCut
 
-## 🏆 Highlights
-
-- 3rd Place – Singtel App Development Showcase (2025)
-- AT-Capital Sustainability Scholar
-- Led and collaborated on cross-country teams (India, Indonesia, Singapore)
-- Completed a 55km night cycling ride
 
 ## 📫 How to reach me:
   Email: arishya_jindal@mymail.sutd.edu.sg
