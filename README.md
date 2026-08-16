@@ -12,19 +12,6 @@ Building an ML-based calibration pipeline to correct sensor drift in wearable mo
 **Somewhere – Social Discovery RPG**
 A Club Penguin-style social app helping Singapore university students meet and connect, built in Godot with a Supabase backend.
 
-### AI & Research
-**Evaluating Explainability in AI Reasoning Models for Mental Health Support**
-Benchmarking LLMs (GPT-4o, Gemini, Qwen) to study reasoning quality and explainability consistency in mental health contexts.
-
-### Sustainability & Climate Tech
-**CoolRide – Climate-Aware Cycling Navigation**
-A heat-resilient routing system that compares fastest vs coolest routes, prioritising shaded paths for cyclists during extreme heat.
-Backend routing algorithms, full-stack integration, cloud deployment.
-
-### Embedded Systems
-**Aquaponics Automation & Water Quality Monitoring** *(Ongoing)*
-ESP32-based system using OpenCV colour detection to estimate nitrate/nitrite levels (PPM) and classify water safety.
-
 ## 👩‍💻 Technical Skills 
 **Programming:**
 Python, Java, JavaScript, SQL, HTML/CSS
