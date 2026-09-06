@@ -33,4 +33,5 @@ Figma, Bubble.io, Adobe Creative Suite, Procreate, CapCut
 
 ## 📫 How to reach me:
   Email: arishya_jindal@mymail.sutd.edu.sg
+  Portfolio: https://arishya7.github.io/portfolio
   LinkedIn: [www.linkedin.com/in/arishya-j-365aa1293](https://www.linkedin.com/in/arishya-j-365aa1293)
